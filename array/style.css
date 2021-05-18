@@ -1,0 +1,14 @@
+main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+div{
+    width: 200px;
+    height: 70px;
+    background-color: cadetblue;
+    font-size: 30px;
+    padding: 10px;
+}
